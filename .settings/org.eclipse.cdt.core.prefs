@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1466984493/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1466984493/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1466984493/PATH/value="C\:\\Program Files\\GNU ARM Eclipse\\Build Tools\\2.8-201611221915\\bin";"C\:\\Program Files (x86)\\GNU Tools ARM Embedded\\4.8 2014q3\\bin"
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1466984493/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1466984493/appendContributed=true
