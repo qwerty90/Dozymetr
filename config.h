@@ -9,8 +9,8 @@
 #define SENSORS_CONFIG_H_
 #include "sensors/sensors.h"
 
-#define SSID  					"KrwawySloik"
-#define WIFI_PASSWORD  			"ogorkowaurna007"
+#define SSID  					"ssid"
+#define WIFI_PASSWORD  			"pass"
 #define API_KEY  				"OQ9SH7F2BSYNMO54"
 #define MESURE_INTERWAL_MIN		10
 
